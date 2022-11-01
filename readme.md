@@ -7,3 +7,5 @@ Refactor the Horiseon web page so it follows accessibility standards for optimiz
 ## Deployment URL
 Deployed URL: https://jeremy-fong.github.io/horiseon/
 Github Repo URL: https://github.com/jeremy-fong/horiseon
+
+##edit
